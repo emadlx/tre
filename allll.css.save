@@ -1,0 +1,9 @@
+body {
+    background-color: #111;
+	display;
+	margin-left: 50%;
+}
+h1 {
+    color: #fff;
+	
+}
